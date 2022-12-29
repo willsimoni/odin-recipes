@@ -1,4 +1,3 @@
 # odin-recipes
-recipes
-Revisit HTML 
-Create recipe pages
+# Doing this section of the Odin Project to revisit HTML and publish a few recipes. 
+
