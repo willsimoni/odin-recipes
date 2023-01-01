@@ -1,0 +1,17 @@
+body{
+    background-color: #F4DF9E;
+}
+
+h1{
+    font-size: 48px;
+    color: #A6192E;
+    background-color: #B19C6C;
+}
+
+img {
+  aspect-ratio: attr(width) / attr(height);
+  border: 3px solid black;
+  float: left;
+  margin-right: 50px;
+}
+
